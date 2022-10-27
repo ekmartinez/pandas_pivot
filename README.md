@@ -1,2 +1,3 @@
 # pandas_pivot
-Pandas Pivot Table
+
+Code snipet for producing Pivot Tables
